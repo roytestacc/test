@@ -1,3 +1,1 @@
-hello
-world
-readmeasdf
+how to use file
